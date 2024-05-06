@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.list-cont {
+  margin-bottom: 10px;
+  background-color: #fff;
+  background-size: cover;
+  padding: 10px;
+  height: 150px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.app-image {
+  height: 60px;
+}
+
+.app-para {
+  font-weight: bold;
+  font-family: Roboto;
+}
